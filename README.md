@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/aziz karagülmez](https://www.linkedin.com/in/aziz-karag%C3%BClmez-612762199/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aziz karagülmez" height="30" width="40" /></a>
+<a href="[[https://linkedin.com/in/aziz karagülmez](https://www.linkedin.com/in/aziz-karag%C3%BClmez-612762199/)](https://www.linkedin.com/in/aziz-karag%C3%BClmez-612762199/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aziz karagülmez" height="30" width="40" /></a>
 
 
 <h3 align="left">Languages and Tools:</h3>
