@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **azizkaragulmez07@gmail.com**
 
-- [**Click to View My Website **](http://akaragulmez.42web.io/)
+- [**Click to View My Website **] http://akaragulmez.42web.io/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
