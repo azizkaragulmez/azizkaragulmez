@@ -1,5 +1,5 @@
 # 💫 Hi, I'm Aziz Karagülmez
- I'm a 3rd-year Computer Engineering student with a strong interest in **Java backend and mobile development**. Currently, I'm focusing on **Java** and **Flutter** to become a skilled and well-rounded developer.
+ I'm a 4rd-year Computer Engineering student with a strong interest in **Java backend and mobile development**. Currently, I'm focusing on **Java** and **Flutter** to become a skilled and well-rounded developer.
 
 
 ## 🌐 
