@@ -1,6 +1,6 @@
 # 💫 Hi, I'm Aziz Karagülmez
 
-I'm a **4th-year Computer Engineering student** with a strong passion for **Java backend** and **mobile development**. Currently, I'm focusing on **Java (Spring Boot)** and **Flutter** to become a versatile and well-rounded developer. I'm also expanding my skills in **MongoDB**, **Docker**, **CI/CD**, and **RabbitMQ** for building scalable and modern applications.
+I'm a **4th-year Computer Engineering student** with a strong passion for **Java backend** and **mobile development**. Currently, I'm focusing on **Java (Spring Boot)** and **Flutter** to become a versatile and well-rounded developer.
 
 ---
 
