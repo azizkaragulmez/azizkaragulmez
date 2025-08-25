@@ -37,14 +37,6 @@ Currently honing my skills in **Spring Boot** and **Flutter** to become a versat
 
 ---
 
-## 🔹 About Me
-- 🎓 4th-year Computer Engineering student  
-- 💡 Passionate about **backend (Java Spring Boot)** and **mobile apps (Flutter)**  
-- 🚀 Currently learning **CI/CD, Docker, RabbitMQ** to strengthen my backend skills  
-- 🌱 I love building **full-stack projects** and exploring **AI integrations**  
-
----
-
 ## 📌 Fun Fact
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
