@@ -1,27 +1,15 @@
 <!-- Profil Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Aziz%20Karagülmez%20🚀&fontSize=40&fontAlignY=35&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Aziz%20Karagülmez%20🚀&fontSize=40&fontAlignY=35&animation=fadeIn" />
 </p>
 
-<h2 align="center">💫 Hi, I'm Aziz Karagülmez</h2>
-
-<p align="center">
-  🎓 4th-year Computer Engineering Student <br/>
-  💻 Focused on <b>Java Spring Boot (Backend)</b> & <b>Flutter (Mobile)</b> <br/>
-  🚀 Turning ideas into <b>scalable apps</b>  
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Aziz+Karagülmez+💫;Backend+%26+Mobile+Developer+🚀;Spring+Boot+%7C+Flutter+%7C+Full+Stack+Dev+💻" alt="Typing Animation" />
+</h1>
 
 ---
 
-## 🔥 About Me
-- 🌱 Currently mastering **Spring Boot, Flutter & Docker**  
-- ⚡ Passionate about **Full-Stack Development**  
-- ☁️ Exploring **Cloud, CI/CD, and Microservices**  
-- 📈 Always learning, always building  
-
----
-
-## 💻 Tech Stack
+## 💻 Tech Stack  
 
 <p align="center"> 
   <img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/> 
@@ -46,7 +34,7 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats & Analytics  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AzizKaragulmez&show_icons=true&theme=tokyonight" height="170"/>
@@ -57,16 +45,34 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AzizKaragulmez&theme=tokyonight" height="170"/>
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AzizKaragulmez&theme=radical&margin-w=15&margin-h=15&column=6" />
+</p>
+
 ---
 
-## 🚀 Featured Projects
+## 🐍 Contribution Snake  
+<p align="center">
+  <img src="https://github.com/AzizKaragulmez/AzizKaragulmez/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🌍 3D Contribution Graph  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AzizKaragulmez/AzizKaragulmez/output/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
+</p>
+
+---
+
+## 🚀 Featured Projects  
 - 📱 **Randevu Uygulaması** – Flutter & Firebase  
 - ☕ **E-Commerce Backend** – Spring Boot & PostgreSQL  
 - 📊 **Student Management System** – Java, Spring Boot  
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Connect with Me  
 <p align="center">
   <a href="https://www.linkedin.com/in/aziz-karag%C3%BClmez-612762199/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -78,14 +84,7 @@
 
 ---
 
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://github.com/AzizKaragulmez/AzizKaragulmez/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## 🎯 Fun Fact
+## 🎯 Fun Fact  
 > *“Code is like humor. When you have to explain it, it’s bad.”* – Cory House  
 
 ---
