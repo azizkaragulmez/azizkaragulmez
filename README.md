@@ -52,23 +52,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azizkaragulmez&layout=compact&theme=radical" alt="Top Languages" height="160"/>
 </p>
 
----
 
-## 📈 Activity Graph  
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=azizkaragulmez&theme=react-dark" alt="GitHub Activity Graph"/>
-</p>
-
----
-
-## 🐍 Contribution Snake  
-
-<p align="center">
-  <img src="https://github.com/azizkaragulmez/azizkaragulmez/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
-
----
 
 ## 📌 Fun Fact  
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House  
