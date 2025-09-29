@@ -1,6 +1,8 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-
+  <h1>
+    Hi there, I'm Aziz Karagülmez 👋
+  </h1>
   <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00FFEF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Aziz+Karagülmez;Backend+Developer+☕;Mobile+Developer+📱;Always+learning+new+things+🚀"/>
 </div>
 
