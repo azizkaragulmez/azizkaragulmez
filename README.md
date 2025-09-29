@@ -1,76 +1,117 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <h1>
-    Hi there, I'm Aziz Karagülmez 👋
-  </h1>
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00FFEF&center=true&vCenter=true&width=600&lines=Backend+Developer+☕;Mobile+Developer+📱;Building+Scalable+Solutions+🚀;Lifelong+Learner+💡"/>
-</div>
+# 💫 Hi, I'm Aziz Karagülmez  
+
+
+
+<p align="center">
+
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00FFEF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Aziz+Karagülmez;Backend+Developer+☕;Mobile+Developer+📱;Always+learning+new+things+🚀"/>
+
+</p>
+
+
 
 ---
 
-### 👨‍💻 About Me
 
-I'm a final-year **Computer Engineering student** with a burning passion for crafting robust backend systems and elegant mobile applications. My journey is fueled by a desire to build things that are not only functional but also scalable and impactful. 
 
-- 🎓 Currently finishing my B.S. in Computer Engineering.
-- ☕ Diving deep into the **Spring ecosystem** to build resilient microservices.
-- 📱 Creating cross-platform experiences with **Flutter & Dart**.
-- 🌱 My goal is to become a versatile developer who can architect and deliver end-to-end solutions.
-- ⚡ Fun fact: I believe great code is self-explanatory, just like a good joke!
+## 🚀 About Me  
 
----
+🎓 I'm a **4th-year Computer Engineering student**  
 
-### 🛠️ My Tech Stack
+💻 Passionate about **Java Backend** & **Mobile Development**  
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,dart,flutter,python&perline=5" />
-    <br>
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,firebase&perline=5" />
-    <br>
-    <img src="https://skillicons.dev/icons?i=docker,git,github,postman,idea,vscode&perline=6" />
-  </a>
-</p>
+🌱 Currently sharpening my skills in **Spring Boot** & **Flutter**  
+
+⚡ Goal: Become a **versatile full-stack developer** building scalable apps  
+
+
 
 ---
 
-### 📊 My GitHub Stats
 
-<p align="center">
-  <a href="https://github.com/azizkaragulmez">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=azizkaragulmez&show_icons=true&theme=radical&rank_icon=github&border_radius=10" />
-  </a>
-  <a href="https://github.com/azizkaragulmez">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azizkaragulmez&layout=compact&theme=radical&border_radius=10" />
-  </a>
-</p>
-<p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=azizkaragulmez&theme=radical&hide_border=true&area=true" alt="GitHub Activity Graph"/>
-</p>
+
+## 🌐 Connect with me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aziz-karag%C3%BClmez-612762199/) 
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:azizkaragulmez07@gmail.com)  
+
+
 
 ---
 
-### 🚀 What I'm Currently Working On
 
-- **Project A (Backend):** Developing a RESTful API for a social media application using Spring Boot, PostgreSQL, and Docker.
-- **Project B (Mobile):** Building a task management app with Flutter and Firebase to practice state management and clean architecture.
-- **Learning:** Exploring advanced concepts in message queues like RabbitMQ for asynchronous communication.
 
-*(Not: Bu bölümü kendi güncel projelerinle doldurabilirsin. Bu, profiline bakanlara ne kadar aktif olduğunu gösterir.)*
+## 💻 Tech Stack  
+
+
+
+<p align="center">
+
+  <img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
+
+  <img alt="Spring Boot" src="https://img.shields.io/badge/SpringBoot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white"/>
+
+  <img alt="Dart" src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"/>
+
+  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white"/>
+
+</p>
+
+
+
+<p align="center">
+
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+  <img alt="SQLite" src="https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
+
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+
+  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white"/>
+
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+</p>
+
+
+
+<p align="center">
+
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+
+  <img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+
+</p>
+
+
 
 ---
 
-### 🌐 Let's Connect!
+
+
+## 📊 GitHub Stats  
+
+
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aziz-karag%C3%BClmez-612762199/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:azizkaragulmez07@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=azizkaragulmez&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azizkaragulmez&layout=compact&theme=radical" alt="Top Languages" height="160"/>
+
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/azizkaragulmez/azizkaragulmez/output/github-contribution-grid-snake.svg" alt="snake">
-</p>
+
+
+
+
+
+
+## 📌 Fun Fact  
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House  
+
+bunu vaov denilcek hale getir dostum
